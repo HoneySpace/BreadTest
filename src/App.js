@@ -151,7 +151,7 @@ function App() {
       <div weights={createWeights([1, 1, 0.4, 1, 0, 1, 0])}>
         Особо не выделяетесь
     </div>
-    </Question>,
+    </Question>
     // <Question
     //   addFunction={AddWeight}
     //   text={'К какой кухни вы себя относите?'}
